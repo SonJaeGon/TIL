@@ -1,6 +1,6 @@
 # Test python env
 def print_hello():
-    animals = ['dog','cat','hamster', 'tiger',] # in one line
+    animals = ['dog','cat','hamster', 'tiger','bear'] # in one line
     foods = [
         'Pasta',
         'Pizza',
